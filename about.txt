@@ -1,0 +1,22 @@
+Your Name, your email address
+    Josh Bremser, joshua.bremser@maine.edu
+
+Your experience programming, with c#, with Git.
+    I've taken programming classes since like 2014 and I intern at Idexx doing dev stuff, mostly Angular, Java, and Dart.
+    I took a C# class in 2017 where we used windows forms and console apps.
+    I used Git in COS420 and I use it at work: comfortable with committing, merging, branches, etc.
+
+Topics that interest you
+    I've been learning Flutter at work which has been a lot of fun.
+
+Career goals
+    I'm planning on staying where I am until I graduate and can be hired full-time.
+
+What you want to get out of this class
+    Learn some new technologies that I didn't know well before
+
+Learning style
+    I learn best being given a task and then left to struggle until I figure it out.
+
+Anything else you'd like me to know
+    Nah
