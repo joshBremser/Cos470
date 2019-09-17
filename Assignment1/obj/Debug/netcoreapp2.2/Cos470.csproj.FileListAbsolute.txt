@@ -1,0 +1,11 @@
+/Users/jbremser/Cos470/obj/Debug/netcoreapp2.2/Cos470.csprojAssemblyReference.cache
+/Users/jbremser/Cos470/obj/Debug/netcoreapp2.2/Cos470.csproj.CoreCompileInputs.cache
+/Users/jbremser/Cos470/obj/Debug/netcoreapp2.2/Cos470.AssemblyInfoInputs.cache
+/Users/jbremser/Cos470/obj/Debug/netcoreapp2.2/Cos470.AssemblyInfo.cs
+/Users/jbremser/Cos470/bin/Debug/netcoreapp2.2/Cos470.deps.json
+/Users/jbremser/Cos470/bin/Debug/netcoreapp2.2/Cos470.runtimeconfig.json
+/Users/jbremser/Cos470/bin/Debug/netcoreapp2.2/Cos470.runtimeconfig.dev.json
+/Users/jbremser/Cos470/bin/Debug/netcoreapp2.2/Cos470.dll
+/Users/jbremser/Cos470/bin/Debug/netcoreapp2.2/Cos470.pdb
+/Users/jbremser/Cos470/obj/Debug/netcoreapp2.2/Cos470.dll
+/Users/jbremser/Cos470/obj/Debug/netcoreapp2.2/Cos470.pdb

@@ -6,7 +6,7 @@ namespace DollarWords
 {
     class DollarWords
     {
-        readonly static string path = "Assignment1/words.txt";
+        readonly static string path = "words.txt";
         private class AggregateDataDollarWords
         {
             private string longestDollarWord;
@@ -127,10 +127,24 @@ namespace DollarWords
             }
         }
 
+        static void saveDollarWords(AggregateDataDollarWords aggregateData){
+            using(TextWriter tw = new StreamWriter("dollarWords.txt"))
+            foreach (string word in aggregateData.getDollarWords())
+                        tw.WriteLine(word);
+        }
+        
+        static void saveExactDollarWords(AggregateDataDollarWords aggregateData){
+            using(TextWriter tw = new StreamWriter("exactDollarWords.txt"))
+            foreach (string word in aggregateData.getExactDollarWords())
+                        tw.WriteLine(word);
+        }
+
         static void Main()
         {
             AggregateDataDollarWords aggregateData = openFileAndCalculateDollarWords(path);
             outputAggregateData(aggregateData);
+            saveDollarWords(aggregateData);
+            saveExactDollarWords(aggregateData);
             //Keep console open
             Console.Read();
         }
