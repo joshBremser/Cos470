@@ -14,8 +14,8 @@ namespace Tests
         {
             string a = "High Street";
             string b = "78 high strEEt!@#$%^&*()     ,,,,...//\\|";
-            int acost = Assignment2.Assignment2.DollarWords.calculateCost(a);
-            int bcost = Assignment2.Assignment2.DollarWords.calculateCost(b);
+            int acost = Assignment2.DollarWords.calculateCost(a);
+            int bcost = Assignment2.DollarWords.calculateCost(b);
             Assert.AreEqual(acost,119);
             Assert.AreEqual(bcost,acost);
         }

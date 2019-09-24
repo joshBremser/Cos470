@@ -5,7 +5,7 @@ using System.Configuration;
 using System.Collections.Specialized;
 using System.Diagnostics;
 
-namespace Assignment2.Assignment2
+namespace Assignment2
 {
     public class DollarWords
     {
