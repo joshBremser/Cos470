@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jbremser/Desktop/Cos470/Assignment2/Assignment2.Tests/Assignment2.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/jbremser/Desktop/Cos470/Assignment2/Assignment2.Tests/Assignment2.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jbremser/Desktop/Cos470/Assignment2/Assignment2.Tests/Assignment2.Tests.csproj",
+        "projectName": "Assignment2.Tests",
+        "projectPath": "/Users/jbremser/Desktop/Cos470/Assignment2/Assignment2.Tests/Assignment2.Tests.csproj",
+        "packagesPath": "/Users/jbremser/.nuget/packages/",
+        "outputPath": "/Users/jbremser/Desktop/Cos470/Assignment2/Assignment2.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/jbremser/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/Users/jbremser/Desktop/Cos470/Assignment2/Assignment2/Assignment2.csproj": {
+                "projectPath": "/Users/jbremser/Desktop/Cos470/Assignment2/Assignment2/Assignment2.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/jbremser/Desktop/Cos470/Assignment2/Assignment2/Assignment2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jbremser/Desktop/Cos470/Assignment2/Assignment2/Assignment2.csproj",
+        "projectName": "Assignment2",
+        "projectPath": "/Users/jbremser/Desktop/Cos470/Assignment2/Assignment2/Assignment2.csproj",
+        "packagesPath": "/Users/jbremser/.nuget/packages/",
+        "outputPath": "/Users/jbremser/Desktop/Cos470/Assignment2/Assignment2/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/jbremser/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
