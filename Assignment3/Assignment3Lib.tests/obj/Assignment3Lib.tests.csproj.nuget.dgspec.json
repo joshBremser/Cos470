@@ -1,35 +1,34 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jbremser/Desktop/Cos470/Assignment3/Assignment3Lib.tests/Assignment3Lib.tests.csproj": {}
+    "C:\\Users\\Josh-Laptop\\Source\\Repos\\Cos470\\Assignment3\\Assignment3Lib.tests\\Assignment3Lib.tests.csproj": {}
   },
   "projects": {
-    "/Users/jbremser/Desktop/Cos470/Assignment3/Assignment3Lib.tests/Assignment3Lib.tests.csproj": {
+    "C:\\Users\\Josh-Laptop\\Source\\Repos\\Cos470\\Assignment3\\Assignment3Lib.tests\\Assignment3Lib.tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jbremser/Desktop/Cos470/Assignment3/Assignment3Lib.tests/Assignment3Lib.tests.csproj",
+        "projectUniqueName": "C:\\Users\\Josh-Laptop\\Source\\Repos\\Cos470\\Assignment3\\Assignment3Lib.tests\\Assignment3Lib.tests.csproj",
         "projectName": "Assignment3Lib.tests",
-        "projectPath": "/Users/jbremser/Desktop/Cos470/Assignment3/Assignment3Lib.tests/Assignment3Lib.tests.csproj",
-        "packagesPath": "/Users/jbremser/.nuget/packages/",
-        "outputPath": "/Users/jbremser/Desktop/Cos470/Assignment3/Assignment3Lib.tests/obj/",
+        "projectPath": "C:\\Users\\Josh-Laptop\\Source\\Repos\\Cos470\\Assignment3\\Assignment3Lib.tests\\Assignment3Lib.tests.csproj",
+        "packagesPath": "C:\\Users\\Josh-Laptop\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Josh-Laptop\\Source\\Repos\\Cos470\\Assignment3\\Assignment3Lib.tests\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/jbremser/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Josh-Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "/Users/jbremser/Desktop/Cos470/Assignment3/Assignment3Lib/Assignment3Lib.csproj": {
-                "projectPath": "/Users/jbremser/Desktop/Cos470/Assignment3/Assignment3Lib/Assignment3Lib.csproj"
+              "C:\\Users\\Josh-Laptop\\Source\\Repos\\Cos470\\Assignment3\\Assignment3Lib\\Assignment3Lib.csproj": {
+                "projectPath": "C:\\Users\\Josh-Laptop\\Source\\Repos\\Cos470\\Assignment3\\Assignment3Lib\\Assignment3Lib.csproj"
               }
             }
           }
@@ -63,32 +62,37 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/jbremser/Desktop/Cos470/Assignment3/Assignment3Lib/Assignment3Lib.csproj": {
+    "C:\\Users\\Josh-Laptop\\Source\\Repos\\Cos470\\Assignment3\\Assignment3Lib\\Assignment3Lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jbremser/Desktop/Cos470/Assignment3/Assignment3Lib/Assignment3Lib.csproj",
+        "projectUniqueName": "C:\\Users\\Josh-Laptop\\Source\\Repos\\Cos470\\Assignment3\\Assignment3Lib\\Assignment3Lib.csproj",
         "projectName": "Assignment3Lib",
-        "projectPath": "/Users/jbremser/Desktop/Cos470/Assignment3/Assignment3Lib/Assignment3Lib.csproj",
-        "packagesPath": "/Users/jbremser/.nuget/packages/",
-        "outputPath": "/Users/jbremser/Desktop/Cos470/Assignment3/Assignment3Lib/obj/",
+        "projectPath": "C:\\Users\\Josh-Laptop\\Source\\Repos\\Cos470\\Assignment3\\Assignment3Lib\\Assignment3Lib.csproj",
+        "packagesPath": "C:\\Users\\Josh-Laptop\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Josh-Laptop\\Source\\Repos\\Cos470\\Assignment3\\Assignment3Lib\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/jbremser/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Josh-Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -117,10 +121,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
