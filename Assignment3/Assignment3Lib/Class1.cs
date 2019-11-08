@@ -4,12 +4,22 @@ namespace Assignment3Lib
 {
     public class GoogleMethods
     {
+        public static DateTime UnixTimeStampToDateTime(double unixTimeStamp)
+        {
+            // Unix timestamp is seconds past epoch
+            System.DateTime dtDateTime = new DateTime(1970, 1, 1, 0, 0, 0, 0, System.DateTimeKind.Utc);
+            dtDateTime = dtDateTime.AddMilliseconds(unixTimeStamp).ToLocalTime();
+            return dtDateTime;
+        }
+
         //Check Alibi A way to check where you were on a particular day
         public static location checkAlibi(GoogleResponse response, DateTime time)
         {
             foreach (location l in response.locations)
             {
-                if (l.timestampMs == time.Millisecond) return l;
+                DateTime t = UnixTimeStampToDateTime(double.Parse(l.timestampMs));
+                if (Math.Abs((t - time).TotalDays) < 2) 
+                    return l;
             }
             return null;
         }

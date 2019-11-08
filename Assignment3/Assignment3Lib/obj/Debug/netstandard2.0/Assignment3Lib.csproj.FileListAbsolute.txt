@@ -7,3 +7,11 @@
 /Users/jbremser/Desktop/Cos470/Assignment3/Assignment3Lib/obj/Debug/netstandard2.0/Assignment3Lib.AssemblyInfo.cs
 /Users/jbremser/Desktop/Cos470/Assignment3/Assignment3Lib/obj/Debug/netstandard2.0/Assignment3Lib.dll
 /Users/jbremser/Desktop/Cos470/Assignment3/Assignment3Lib/obj/Debug/netstandard2.0/Assignment3Lib.pdb
+C:\Users\Josh-Laptop\Source\Repos\Cos470\Assignment3\Assignment3Lib\bin\Debug\netstandard2.0\Assignment3Lib.deps.json
+C:\Users\Josh-Laptop\Source\Repos\Cos470\Assignment3\Assignment3Lib\bin\Debug\netstandard2.0\Assignment3Lib.dll
+C:\Users\Josh-Laptop\Source\Repos\Cos470\Assignment3\Assignment3Lib\bin\Debug\netstandard2.0\Assignment3Lib.pdb
+C:\Users\Josh-Laptop\Source\Repos\Cos470\Assignment3\Assignment3Lib\obj\Debug\netstandard2.0\Assignment3Lib.csprojAssemblyReference.cache
+C:\Users\Josh-Laptop\Source\Repos\Cos470\Assignment3\Assignment3Lib\obj\Debug\netstandard2.0\Assignment3Lib.AssemblyInfoInputs.cache
+C:\Users\Josh-Laptop\Source\Repos\Cos470\Assignment3\Assignment3Lib\obj\Debug\netstandard2.0\Assignment3Lib.AssemblyInfo.cs
+C:\Users\Josh-Laptop\Source\Repos\Cos470\Assignment3\Assignment3Lib\obj\Debug\netstandard2.0\Assignment3Lib.dll
+C:\Users\Josh-Laptop\Source\Repos\Cos470\Assignment3\Assignment3Lib\obj\Debug\netstandard2.0\Assignment3Lib.pdb

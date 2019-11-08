@@ -6,8 +6,8 @@
 
 public class location
 {
-    public int timestampMs { get; set; }
-    public int longitudeE7 { get; set; }
-    public int latitudeE7 { get; set; }
-    public int accuracy { get; set; }
+    public string timestampMs { get; set; }
+    public long longitudeE7 { get; set; }
+    public long latitudeE7 { get; set; }
+    public long accuracy { get; set; }
 }
