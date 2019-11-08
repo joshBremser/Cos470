@@ -30,9 +30,9 @@ namespace Assignment3Lib
             {
                 foreach (location p in response.locations)
                 {
-                    if (l.latitudeE7 == p.latitudeE7 &&
-                        l.longitudeE7 == p.longitudeE7 &&
-                        l.timestampMs == p.timestampMs)
+                    if (Math.Abs(l.latitudeE7 - p.latitudeE7) < 10 &&
+                        Math.Abs(l.longitudeE7 - p.longitudeE7) < 10 &&
+                        Math.Abs(long.Parse(l.timestampMs) - long.Parse(p.timestampMs)) < 1000000)
                         return true;
                 }
             }
