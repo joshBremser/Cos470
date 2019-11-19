@@ -1,0 +1,17 @@
+/Users/jbremser/Desktop/Cos470/Assignment3/Assignment3Lib.tests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/jbremser/Desktop/Cos470/Assignment3/Assignment3Lib.tests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/jbremser/Desktop/Cos470/Assignment3/Assignment3Lib.tests/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/jbremser/Desktop/Cos470/Assignment3/Assignment3Lib.tests/bin/Debug/netcoreapp2.2/Assignment3Lib.tests.deps.json
+/Users/jbremser/Desktop/Cos470/Assignment3/Assignment3Lib.tests/bin/Debug/netcoreapp2.2/Assignment3Lib.tests.runtimeconfig.json
+/Users/jbremser/Desktop/Cos470/Assignment3/Assignment3Lib.tests/bin/Debug/netcoreapp2.2/Assignment3Lib.tests.runtimeconfig.dev.json
+/Users/jbremser/Desktop/Cos470/Assignment3/Assignment3Lib.tests/bin/Debug/netcoreapp2.2/Assignment3Lib.tests.dll
+/Users/jbremser/Desktop/Cos470/Assignment3/Assignment3Lib.tests/bin/Debug/netcoreapp2.2/Assignment3Lib.tests.pdb
+/Users/jbremser/Desktop/Cos470/Assignment3/Assignment3Lib.tests/bin/Debug/netcoreapp2.2/Assignment3Lib.dll
+/Users/jbremser/Desktop/Cos470/Assignment3/Assignment3Lib.tests/bin/Debug/netcoreapp2.2/Assignment3Lib.pdb
+/Users/jbremser/Desktop/Cos470/Assignment3/Assignment3Lib.tests/obj/Debug/netcoreapp2.2/Assignment3Lib.tests.csprojAssemblyReference.cache
+/Users/jbremser/Desktop/Cos470/Assignment3/Assignment3Lib.tests/obj/Debug/netcoreapp2.2/Assignment3Lib.tests.csproj.CoreCompileInputs.cache
+/Users/jbremser/Desktop/Cos470/Assignment3/Assignment3Lib.tests/obj/Debug/netcoreapp2.2/Assignment3Lib.tests.AssemblyInfoInputs.cache
+/Users/jbremser/Desktop/Cos470/Assignment3/Assignment3Lib.tests/obj/Debug/netcoreapp2.2/Assignment3Lib.tests.AssemblyInfo.cs
+/Users/jbremser/Desktop/Cos470/Assignment3/Assignment3Lib.tests/obj/Debug/netcoreapp2.2/Assignment3Lib.tests.csproj.CopyComplete
+/Users/jbremser/Desktop/Cos470/Assignment3/Assignment3Lib.tests/obj/Debug/netcoreapp2.2/Assignment3Lib.tests.dll
+/Users/jbremser/Desktop/Cos470/Assignment3/Assignment3Lib.tests/obj/Debug/netcoreapp2.2/Assignment3Lib.tests.pdb
